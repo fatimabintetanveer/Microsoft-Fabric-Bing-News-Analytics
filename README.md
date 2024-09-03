@@ -30,7 +30,7 @@ In this project, we leverage the capabilities of Microsoft Fabric to build a rob
 
 The architecture diagram below outlines the components and flow of the project:
 
-<img src="assets/architecture_diagram.svg" alt="Architecture Diagram" width="800"/>
+<img src="assets/fabric_architecture.svg" alt="Architecture Diagram" width="800"/>
 
 ## Implementation Steps
 
