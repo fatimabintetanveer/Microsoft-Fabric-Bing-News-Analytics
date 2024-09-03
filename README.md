@@ -32,7 +32,7 @@ The architecture diagram below outlines the components and flow of the project:
 
 <img src="assets/fabric_architecture.svg" alt="Architecture Diagram" width="800"/>
 
-<img src="assets/architecture_diagram.svg" alt="Architecture Diagram" width="800"/>
+<img src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1#G1IsT5HIXsxVu8r3CdH9_mU9iWbp6ygSXc" alt="Architecture Diagram" width="800"/>
 
 
 ## Implementation Steps
