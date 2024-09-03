@@ -36,6 +36,8 @@ The architecture diagram below outlines the components and flow of the project:
 
 1. **Ingestion**: Establish a pipeline in Azure Data Factory to ingest data from Bing News, configure data sources, set up triggers, and ensure continuous data flow into the system.
 
+<img src="assets/ingestion.png" alt="Architecture Diagram" width="800"/>
+
 2. **Transformation**: Perform data transformation tasks in Synapse Data Engineering, including incremental loading with Type 1 updates (where existing records are updated with new data). Implement pipelines to clean, enrich, and structure data for analysis, ensuring it is ready for insights.
 
 3. **Sentimental Analysis**: Utilize Synapse Data Science to perform sentiment analysis on news articles using text analytics machine learning models and interpret sentiment scores to gain insights into news trends.
