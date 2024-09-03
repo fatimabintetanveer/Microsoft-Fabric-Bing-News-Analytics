@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, we leverage the capabilities of Microsoft Fabric to build a robust data engineering pipeline for analyzing Bing News data. This tutorial guides you through setting up the environment, creating essential resources, and configuring workflows to ensure a seamless data processing experience.
+This project showcases a full-scale data engineering pipeline using Microsoft Fabric to analyze Bing News data. The pipeline encompasses the entire data lifecycle, from ingestion and transformation to sentiment analysis and reporting. By the end, we produce interactive Power BI reports that provide valuable insights, demonstrating the seamless integration of various data processing stages within the Microsoft Fabric ecosystem.
 
 ## Project Goals
 
