@@ -32,6 +32,9 @@ The architecture diagram below outlines the components and flow of the project:
 
 <img src="assets/fabric_architecture.svg" alt="Architecture Diagram" width="800"/>
 
+<img src="assets/architecture_diagram.svg" alt="Architecture Diagram" width="800"/>
+
+
 ## Implementation Steps
 
 1. **Ingestion**: Establish a pipeline in Azure Data Factory to ingest data from Bing News, configure data sources, set up triggers, and ensure continuous data flow into the system.
